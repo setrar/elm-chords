@@ -14,9 +14,9 @@ type alias Model =
 
 initialModel : Model
 initialModel =
--- { chords = [ "C" , "G" , "Am" , "F" ] } -- intro1
+ { chords = [ "C" , "G" , "Am" , "F" ] } -- intro1
 -- { chords = [ "C", "Em", "F", "C", "F", "E7", "Am", "F" ] } -- intro 2
-  { chords = [ "C" , "Em" , "F" , "C", "F", "C", "G", "Am", "F" ] } -- verse
+--  { chords = [ "C" , "Em" , "F" , "C", "F", "C", "G", "Am", "F" ] } -- verse
 --  { chords = [ "C" , "Em" , "Am" , "F" ] } -- bridge
 
 

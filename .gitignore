@@ -6,3 +6,4 @@ Generated
 elm-spa-*.tgz
 # Local Netlify folder
 .netlify
+.idea
